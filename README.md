@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning C++, Android Studio and Network Computing
 - 📫 How to reach me: surya.sk05@outlook.com
 
-Passionate about game development, C# and Universal Windows Platofrm. Currently looking for a Co-op position for January 2021. 
+Passionate about game development, C# and Universal Windows Platform.
