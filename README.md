@@ -2,7 +2,7 @@ Junior Gameplay Programmer at Ubisoft Halifax and a 3rd year Computer Science st
 
 I have working knowledge in: 
 - C#, C++, Python, Java, PHP, C, HTML + CSS, JavaScript 
-- UWP, Unity 3D, Unreal Engine 4, WPF, PyQt, OpenGL with GLUT
+- UWP, Unity 3D, Unreal Engine 4, PyQt, OpenGL with GLUT
 - Git, Perforce, JIRA
 
 I am also familiar with PyCharm, Visual Studio 2017/2019, IntelliJ, Eclipse and Visual Studio Code. 
