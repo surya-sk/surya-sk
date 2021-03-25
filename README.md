@@ -7,7 +7,7 @@ I have working knowledge in:
 
 I am also familiar with PyCharm, Visual Studio 2017/2019, IntelliJ, Eclipse and Visual Studio Code. 
 
-- 🔭 I’m currently working on a Unity 3D game, an Unreal Engine game and a UWP application
+- 🔭 I’m currently working on a Unity 3D game and an Unreal Engine game
 - 🌱 I’m currently learning C++, PyQt and working with .NET Core Console Applications
 - 📫 How to reach me: surya.sk05@outlook.com
 
