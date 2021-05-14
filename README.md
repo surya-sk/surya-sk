@@ -1,4 +1,4 @@
-Junior Gameplay Programmer at Ubisoft Halifax and a 3rd year Computer Science student at Dalhousie University. I live and breathe C#. Passionate about game development and the Universal Windows Platform. 
+3rd year Computer Science student at Dalhousie University. I live and breathe C#. Passionate about game development and the Universal Windows Platform. 
 
 I have working knowledge in: 
 - C#, C++, Python, Java, PHP, C, HTML + CSS, JavaScript 
