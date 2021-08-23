@@ -2,7 +2,7 @@
 
 I have working knowledge in: 
 - C#, C++, Python, Java, PHP, C, HTML + CSS, JavaScript 
-- UWP, Unity 3D, Unreal Engine 4, PyQt, .NET Framework/Core, OpenGL with GLUT
+- UWP, Unity 3D, Unreal Engine 4, PyQt, .NET Framework/Core, OpenGL with GLUT, Microsoft Graph APIs
 - Git, Perforce, JIRA
 
 I am also familiar with PyCharm, Visual Studio 2017/2019, IntelliJ, Eclipse and Visual Studio Code. 
