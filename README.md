@@ -1,4 +1,4 @@
-3rd year Computer Science student at Dalhousie University. I live and breathe C#. Passionate about game development and the Universal Windows Platform. 
+Computer Science student at Dalhousie University. I live and breathe C#. Passionate about game development and the Universal Windows Platform. 
 
 I have working knowledge in: 
 - C#, C++, Python, Java, PHP, C, HTML + CSS, JavaScript 
