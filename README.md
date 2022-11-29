@@ -7,7 +7,7 @@ I have working knowledge in:
 
 I am also familiar with PyCharm, Visual Studio, IntelliJ, Eclipse and Visual Studio Code. 
 
-- 🔭 I’m currently working on a stealth-action game with Unity
+- 🔭 I’m currently working on a stealth-action game using Unreal Engine 5
 - 🌱 I’m currently learning video game AI and MVVM
 - 📫 How to reach me: surya.sk05@outlook.com
 
