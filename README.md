@@ -1,15 +1,13 @@
-Game and UWP developer. Passionate about making meaninful games and useful apps. I live and breathe C#, and maintain a love-hate relationship with C++. 
+Game developer and occasional UWP app developer. I mainly focus on C++ and Unreal Engine, but also have plenty of experience with C#. 
 
 I have working knowledge in: 
-- C#, C++, Python, Java, PHP, C, HTML + CSS, JavaScript 
-- UWP XAML, Unity 3D, Unreal Engine 4, PyQt, .NET Framework/Core, Blazor, OpenGL with GLUT, REST APIs, Microsoft Graph API
+- C#, C++, Python, C
+- UWP XAML, Unity 3D, Unreal Engine 4/5, PyQt, .NET Framework/Core, Blazor, OpenGL with GLUT, REST APIs, Microsoft Graph API
 - Git, Perforce, JIRA
 
-I am also familiar with PyCharm, Visual Studio, IntelliJ, Eclipse and Visual Studio Code. 
+I mostly live inside of Visual Studio 2022 and sometimes VS Code. 
 
-- 🔭 I’m currently working on a stealth-action game using Unreal Engine 5
-- 🌱 I’m currently learning video game AI and MVVM
+- 🔭 I’m currently working on a stealth-action-horror game using Unreal Engine 5 (it's a long way away at the moment)
+- 🌱 I’m currently learning video game systems
 - 📫 How to reach me: surya.sk05@outlook.com
-
-My portfolio: https://surya-sk.github.io/portfolio/
 
